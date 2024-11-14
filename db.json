@@ -9,7 +9,7 @@
             "grade": 7.4
         },
         {
-            "name": "Sofía",
+            "name": "Sofia",
             "grade": 8
         },
         {
@@ -53,7 +53,7 @@
             "grade": 4.3
         },
         {
-            "name": "José",
+            "name": "Jose",
             "grade": 8.8
         },
         {
@@ -97,10 +97,10 @@
                 "tv shows",
                 "music"
             ],
-            "district": "chamberí"
+            "district": "chamberi"
         },
         {
-            "name": "María",
+            "name": "Maria",
             "age": 15,
             "hobbies": [
                 "drawing",
