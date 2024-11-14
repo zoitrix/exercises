@@ -1,0 +1,22 @@
+{
+  "students":
+		{
+			{"name": "Carlos", "grade": 8.5},
+			{"name": "Julia", "grade": 3},
+			{"name": "Alicia", "grade": 6.75},
+			{"name": "Pedro", "grade": 2},
+			{"name": "Miguel", "grade": 7}
+		},
+  "candidate":{
+	"name": "Emilio Rodríguez",
+	"age": 34,
+	"languages": [
+		{"english": "C1"},
+		{"german": "A2"},
+		{"french": "B1"},
+	],
+	"request": 30000,
+	"work": 0,
+	"availability": 1
+  }
+}
