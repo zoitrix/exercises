@@ -1,127 +1,121 @@
 {
-    "exercise1": {
-        "students": [
-            {
-                "name": "Ana",
-                "grade": 9.2
-            },
-            {
-                "name": "Luis",
-                "grade": 7.4
-            },
-            {
-                "name": "Sofía",
-                "grade": 8
-            },
-            {
-                "name": "Pedro",
-                "grade": 5.3
-            },
-            {
-                "name": "Laura",
-                "grade": 6.8
-            },
-            {
-                "name": "Javier",
-                "grade": 4.9
-            },
-            {
-                "name": "Marta",
-                "grade": 7.6
-            },
-            {
-                "name": "Daniel",
-                "grade": 3.2
-            },
-            {
-                "name": "Carmen",
-                "grade": 8.7
-            },
-            {
-                "name": "Felipe",
-                "grade": 2.1
-            },
-            {
-                "name": "Rosa",
-                "grade": 9.9
-            },
-            {
-                "name": "Miguel",
-                "grade": 6.5
-            },
-            {
-                "name": "Elena",
-                "grade": 4.3
-            },
-            {
-                "name": "José",
-                "grade": 8.8
-            },
-            {
-                "name": "Paula",
-                "grade": 3.7
-            }
-        ]
-    },
-    "exercise2": {
-        "candidate": {
-            "name": "Emilio Rodríguez",
-            "age": 34,
-            "languages": [
-                {
-                    "english": "C1"
-                },
-                {
-                    "german": "A2"
-                },
-                {
-                    "french": "B1"
-                }
-            ],
-            "request": 30000,
-            "work": 0,
-            "availability": 1
+    "students": [
+        {
+            "name": "Ana",
+            "grade": 9.2
+        },
+        {
+            "name": "Luis",
+            "grade": 7.4
+        },
+        {
+            "name": "Sofía",
+            "grade": 8
+        },
+        {
+            "name": "Pedro",
+            "grade": 5.3
+        },
+        {
+            "name": "Laura",
+            "grade": 6.8
+        },
+        {
+            "name": "Javier",
+            "grade": 4.9
+        },
+        {
+            "name": "Marta",
+            "grade": 7.6
+        },
+        {
+            "name": "Daniel",
+            "grade": 3.2
+        },
+        {
+            "name": "Carmen",
+            "grade": 8.7
+        },
+        {
+            "name": "Felipe",
+            "grade": 2.1
+        },
+        {
+            "name": "Rosa",
+            "grade": 9.9
+        },
+        {
+            "name": "Miguel",
+            "grade": 6.5
+        },
+        {
+            "name": "Elena",
+            "grade": 4.3
+        },
+        {
+            "name": "José",
+            "grade": 8.8
+        },
+        {
+            "name": "Paula",
+            "grade": 3.7
         }
-    },
-    "exercise3": {
-        "people": [
+    ],
+    "candidate": {
+        "name": "Emilio Rodríguez",
+        "age": 34,
+        "languages": [
             {
-                "name": "Luis",
-                "age": 14,
-                "hobbies": [
-                    "videogames",
-                    "football"
-                ],
-                "barrio": "arganzuela"
+                "english": "C1"
             },
             {
-                "name": "Andrea",
-                "age": 16,
-                "hobbies": [
-                    "movies",
-                    "tv shows",
-                    "music"
-                ],
-                "district": "chamberí"
+                "german": "A2"
             },
             {
-                "name": "María",
-                "age": 15,
-                "hobbies": [
-                    "drawing",
-                    "music"
-                ],
-                "district": "retiro"
-            },
-            {
-                "name": "Juan",
-                "age": 12,
-                "hobbies": [
-                    "films",
-                    "writing"
-                ],
-                "district": "retiro"
+                "french": "B1"
             }
-        ]
-    }
+        ],
+        "request": 30000,
+        "work": 0,
+        "availability": 1
+    },
+    "people": [
+        {
+            "name": "Luis",
+            "age": 14,
+            "hobbies": [
+                "videogames",
+                "football"
+            ],
+            "barrio": "arganzuela"
+        },
+        {
+            "name": "Andrea",
+            "age": 16,
+            "hobbies": [
+                "movies",
+                "tv shows",
+                "music"
+            ],
+            "district": "chamberí"
+        },
+        {
+            "name": "María",
+            "age": 15,
+            "hobbies": [
+                "drawing",
+                "music"
+            ],
+            "district": "retiro"
+        },
+        {
+            "name": "Juan",
+            "age": 12,
+            "hobbies": [
+                "films",
+                "writing"
+            ],
+            "district": "retiro"
+        }
+    ]
 }
