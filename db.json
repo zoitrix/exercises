@@ -87,7 +87,7 @@
                 "videogames",
                 "football"
             ],
-            "barrio": "arganzuela"
+            "district": "arganzuela"
         },
         {
             "name": "Andrea",
@@ -112,7 +112,7 @@
             "name": "Juan",
             "age": 12,
             "hobbies": [
-                "films",
+                "movies",
                 "writing"
             ],
             "district": "retiro"
